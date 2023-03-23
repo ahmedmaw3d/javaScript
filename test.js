@@ -1,4 +1,14 @@
-var x = 1;
+/*var myInput = document.getElementById("input"),
+
+    myDiv = document.getElementById("div");
+
+    myInput.onkeyup = function (){
+
+     "use strict";
+
+    alert("you are pressed the key Now");
+}*/
+ /*var x = 1;
 
 function tastParent(){
 
@@ -16,9 +26,9 @@ function tastParent(){
     return testChild();
 }
 
-tastParent();
+   tastParent();
 
-console.log(x + 2);
+   console.log(x + 2);*/
 
 /*function changeX1(){
 
@@ -145,13 +155,13 @@ document.getElementById("test").innerHTML = calcNumber(10,350,20);*/
 /*function calcDays(age){
   "ues strict";
 
-  var yeas = 365;
+   var yeas = 365;
 
-  return yeas * age;
+   return yeas * age;
 }
-var dynamicAge = calcDays (prompt("whats your Age ?"));
+    var dynamicAge = calcDays (prompt("whats your Age ?"));
 
-document.getElementById("test").innerHTML = dynamicAge;*/
+    document.getElementById("test").innerHTML = dynamicAge;*/
 
 /*function sayHello(firstName,middleName,lastName){
     "use strict";
